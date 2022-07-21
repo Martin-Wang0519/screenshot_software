@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/">
+    <file>rc/break_through.png</file>
+    <file>rc/deviate.png</file>
+    <file>rc/syn_15.png</file>
+    <file>rc/syn_30.png</file>
+    <file>rc/syn_daily.png</file>
+    <file>rc/four-leaves.png</file>
+    <file>rc/screenshot.png</file>
+    <file>rc/openFolder.png</file>
+  </qresource>
+</RCC>

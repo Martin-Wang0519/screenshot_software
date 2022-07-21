@@ -1,0 +1,27 @@
+VK_CODE_info:
+  down_arrow: 40
+  up_arrow  : 38
+
+click_point_info:
+  left_menu: (36, 122)
+
+#  '1': '(277, 90)'
+#  '15': '(359, 90)'
+#  '30': '(402, 90)'
+#  '5': '(316,90)'
+#  '60': '(447, 90)'
+#   a_first: '(141, 136)'
+#   a_gu: '(72, 987)', daily: '(492,90)', gang_first: '(135, 114)', gang_gu: '(683, 988)', gang_gu_tong: '(695, 965)',
+#  indent: '(1406, 112)', left_menu: '(36, 122)', weekly: '(523, 90)', zi_xuan_gu: '(395,1008)'}
+#current_count: 50
+#ocr_rectangle_info: {a: '(1719, 85, 1776, 103)', gang: '(1704, 86, 1747, 103)'}
+
+strategy:
+  chinese_english_mapping: {15_minutes: "15\u5206\u949F", 30_minutes: "30\u5206\u949F",
+    daily: "\u65E5\u7EBF", deviate: "\u80CC\u79BB", offset_breakthrough: "\u76F8\u62B5\
+      \u7A81\u7834", synchronous_rise: "\u540C\u6B65\u4E0A\u5347"}
+  dir_name_tree:
+  - "未分类"
+  - "背离"
+  - "同步上升": ["5分钟", "15分钟", "日线"]
+  - "相抵突破"

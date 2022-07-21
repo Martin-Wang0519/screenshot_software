@@ -1,0 +1,6 @@
+Pillow
+PyQt5
+pytesseract
+pywin32
+PyYAML
+win32gui
